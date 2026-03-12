@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,first_name,last_name,city,product_id,product_name,category,unit_price,quantity,line_total
+1001,2026-03-10,1,Jean,Dubois,Rennes,101,Velo Route,Velos,1200.0,1,1200.0
+1002,2026-03-10,2,Julie,Martin,Nantes,102,Casque,Accessoires,80.0,2,160.0
+1003,2026-03-10,1,Jean,Dubois,Rennes,103,Gants,Accessoires,25.0,3,75.0
