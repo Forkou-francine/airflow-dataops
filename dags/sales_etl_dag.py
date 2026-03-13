@@ -52,3 +52,4 @@ with DAG(
 
     # Dépendances : exécution séquentielle
     check_files >> validate_data >> transform_sales >> pipeline_done
+
